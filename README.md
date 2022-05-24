@@ -3,6 +3,9 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/shashwat-prakash-4a150420b/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  </a>
+</h1>
+  
 
 - 📫 How to reach me: [shashwatprakash42@gmail.com](mailto:shashwatprakash42@gmail.com)
 - 👀 I’m interested in Technology and computer science.
