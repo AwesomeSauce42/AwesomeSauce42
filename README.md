@@ -15,7 +15,7 @@
 - 😄 Pronouns: he/him
  
   
-  ## Skills
+## Skills
 
 ### Languages
 <p float="left">
