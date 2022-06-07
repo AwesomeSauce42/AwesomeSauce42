@@ -1,8 +1,8 @@
-<h2 align='center'>Hello There! Shashwat Prakash here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align='center'>Hello There! Shashwat Prakash here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px"></h2>
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/shashwat-prakash-4a150420b/" title="LinkedIn Profile"><img width="16" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/shashwat-prakash-4a150420b/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   </a>
 </h1>
   
