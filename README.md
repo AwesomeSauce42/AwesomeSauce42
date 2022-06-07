@@ -1,4 +1,4 @@
-<h2 align='center'>Hello There! Shashwat Prakash here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align='center'>Hello There! Shashwat Prakash here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"></h2>
 
 <h5 align="center">
   <code>
